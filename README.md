@@ -1,6 +1,6 @@
 # Quantitative Analyse von Abweichungen in Zahlungsprozessen
 
-Dieses Repository enthält die Python-Notebooks der empirischen Analyse zur Bachelorarbeit von Nic Bohm. Die gespeicherten Zellenausgaben wurden entfernt. Tabellen und Abbildungen werden bei einer erneuten Ausführung im Ordner `outputs` erzeugt.
+Dieses Repository enthält die Python-Notebooks der empirischen Analyse zur Bachelorarbeit. Tabellen und Abbildungen werden bei einer erneuten Ausführung im Ordner `outputs` erzeugt.
 
 ## Projektstruktur
 
